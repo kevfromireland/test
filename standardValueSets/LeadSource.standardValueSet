@@ -51,9 +51,4 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
-    <standardValue>
-        <fullName>LinkedIn</fullName>
-        <default>false</default>
-        <label>LinkedIn</label>
-    </standardValue>
 </StandardValueSet>
